@@ -1,5 +1,3 @@
-Read pasted-text.txtThought for 3sAqui está o texto formatado em Markdown padrão para o README do GitHub:
-
 ```markdown
 # 📚 API Livraria
 
