@@ -67,12 +67,6 @@ pip install -r requirements.txt
 
 Crie o arquivo `config/env/.env` (ou copie o `.env.example`) e deixe assim:
 
-```ini
-DEBUG=True
-SECRET_KEY=changeme-local
-ALLOWED_HOSTS=127.0.0.1,localhost
-```
-
 ### 5️⃣ Rode as migrações
 
 ```shellscript
